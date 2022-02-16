@@ -1,0 +1,44 @@
+.buttons_swipe {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  bottom: 13vh;
+  justify-content: space-evenly;
+}
+
+.icon-shadow {
+    box-shadow: -7px 27px 79px -9px rgba(0,0,0,0.47);
+    -webkit-box-shadow: -7px 27px 79px -9px rgba(0,0,0,0.47);
+    -moz-box-shadow: -7px 27px 79px -9px rgba(0,0,0,0.47);
+}
+
+.replay{
+    padding:.3rem !important; 
+    color:#f5b748 !important;
+}
+.not-intersted
+{
+  padding:.3rem !important; 
+  color:#ec5e6f !important;
+
+}
+.favorite
+{
+  padding:.3rem !important; 
+  color:#63b4f9 !important;
+
+}
+.intersted
+{
+  padding:.3rem !important; 
+  color:#76e2b3 !important;
+
+}
+.flash
+{
+  padding:.3rem !important; 
+  color:#915dd1 !important;
+
+}
